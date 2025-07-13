@@ -4,3 +4,4 @@ PKL RESOLUSI
 -menyelesaikan project sesuai deadline
 -saling memahami
 -menabung
+-monitoring kegiatan
