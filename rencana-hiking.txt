@@ -1,3 +1,10 @@
 RENCANA HIKING
 -curug
+  *curug putri kencana
+  *curug ceret
+  *curug citambur
+
 -gunung
+ *gunung pangrango
+ *gunung rinjani
+ *gunung salak
